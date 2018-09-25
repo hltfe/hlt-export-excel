@@ -2,12 +2,6 @@ require("script-loader!file-saver");
 require("script-loader!xlsx/dist/xlsx.core.min");
 require("script-loader!blob.js/Blob");
 
-/**
- * Created by kin on 2017/5/18.
- *
- * josn导出excel
- * mail：cuikangjie_90h@126.com
- */
 const changeData = function(data, filter) {
   let sj = data,
     f = filter,

@@ -16,7 +16,8 @@ yarn add hlt-export-excel
 ## 文档
 
 ### 用法
-(```)
+
+```
     const ExportJsonExcel = require('js-export-excel')
 
     var option={};
@@ -37,7 +38,7 @@ yarn add hlt-export-excel
 
     var toExcel = new ExportJsonExcel(option); //new
     toExcel.saveExcel(); //保存
-(```)
+```
 
 ### option
 
