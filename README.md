@@ -18,7 +18,7 @@ yarn add hlt-export-excel
 ### 用法
 
 ```
-    const ExportJsonExcel = require('js-export-excel')
+    const ExportJsonExcel = require('hlt-export-excel')
 
     var option={};
 
